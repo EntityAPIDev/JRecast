@@ -1,8 +1,8 @@
-package org.critterai.nmgen;
+package org.entityapi.jrecast;
 
 import java.util.ArrayDeque;
 
-import org.critterai.nmgen.OpenHeightfield.OpenHeightFieldIterator;
+import org.entityapi.jrecast.OpenHeightfield.OpenHeightFieldIterator;
 
 /**
  * Implements three algorithms that clean up issues that can

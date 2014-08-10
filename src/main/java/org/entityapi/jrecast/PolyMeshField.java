@@ -19,7 +19,7 @@
  * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
  * THE SOFTWARE.
  */
-package org.critterai.nmgen;
+package org.entityapi.jrecast;
 
 /**
  * Represents a set of related convex polygons within a bounded field.

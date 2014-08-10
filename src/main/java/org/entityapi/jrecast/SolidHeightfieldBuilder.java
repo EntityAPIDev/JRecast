@@ -19,9 +19,9 @@
  * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
  * THE SOFTWARE.
  */
-package org.critterai.nmgen;
+package org.entityapi.jrecast;
 
-import org.critterai.nmgen.SolidHeightfield.SolidHeightFieldIterator;
+import org.entityapi.jrecast.SolidHeightfield.SolidHeightFieldIterator;
 
 /**
  * A class used to build solid heightfields from source geometry using a

@@ -24,4 +24,4 @@ Provides data structures and algorithms useful for generating navigation meshes
 which represent the traversable surface area of an arbitrary source triangle
 mesh.
  */
-package org.critterai.nmgen;
+package org.entityapi.jrecast;

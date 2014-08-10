@@ -19,7 +19,7 @@
  * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
  * THE SOFTWARE.
  */
-package org.critterai.nmgen;
+package org.entityapi.jrecast;
 
 /**
  * Represents the a triangle mesh created by the navigation mesh generation

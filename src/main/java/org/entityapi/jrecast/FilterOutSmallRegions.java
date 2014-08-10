@@ -19,11 +19,11 @@
  * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
  * THE SOFTWARE.
  */
-package org.critterai.nmgen;
+package org.entityapi.jrecast;
 
 import java.util.ArrayList;
 
-import org.critterai.nmgen.OpenHeightfield.OpenHeightFieldIterator;
+import org.entityapi.jrecast.OpenHeightfield.OpenHeightFieldIterator;
 
 /**
  * Removes and merges small regions within a height field.

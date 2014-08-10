@@ -1,4 +1,4 @@
-package org.critterai.nmgen;
+package org.entityapi.jrecast;
 
 /**
  * Provides shared computational geometry operations.

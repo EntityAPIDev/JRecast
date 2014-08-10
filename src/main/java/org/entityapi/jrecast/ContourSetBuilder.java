@@ -19,12 +19,12 @@
  * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
  * THE SOFTWARE.
  */
-package org.critterai.nmgen;
+package org.entityapi.jrecast;
 
 import java.util.ArrayList;
 import java.util.logging.Logger;
 
-import org.critterai.nmgen.OpenHeightfield.OpenHeightFieldIterator;
+import org.entityapi.jrecast.OpenHeightfield.OpenHeightFieldIterator;
 
 /**
  * Builds a set of contours from the region information contained by an
